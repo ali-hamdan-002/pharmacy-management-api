@@ -62,7 +62,7 @@ To make testing easier, a Postman collection is included in this repository.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/pharmacy-management-api.git](https://github.com/yourusername/pharmacy-management-api.git)
+    git clone https://github.com/ali-hamdan-002/pharmacy-management-api.git
     ```
 2.  **Install Dependencies:**
     ```bash
